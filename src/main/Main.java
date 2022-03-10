@@ -5,7 +5,7 @@ public class Main {
 	
 	// Metodi
 	private static void alineri() {
-		
+		System.out.println("Ciao, sono Alberto Alineri");
 	}
 	
 	private static void capulong() {
