@@ -13,7 +13,7 @@ public class Main {
 	}
 	
 	private static void nicolotti() {
-		
+		System.out.println("Ciao, sono Cristian Nicolotti");
 	}
 	
 	private static void samime() {
