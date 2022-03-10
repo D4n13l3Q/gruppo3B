@@ -17,7 +17,7 @@ public class Main {
 	}
 	
 	private static void samime() {
-		
+		System.out.println("Ciao sono Assia Samime");
 	}
 	
 	private static void stella() {
