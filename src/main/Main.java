@@ -9,7 +9,7 @@ public class Main {
 	}
 	
 	private static void capulong() {
-		
+		System.out.println("Ciao, sono Lois Ira Capulong");
 	}
 	
 	private static void nicolotti() {
