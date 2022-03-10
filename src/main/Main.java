@@ -21,7 +21,7 @@ public class Main {
 	}
 	
 	private static void stella() {
-		
+		System.out.println("Ciao, sono Simone Stella");
 	}
 	
 	private static void quasimodo() {
